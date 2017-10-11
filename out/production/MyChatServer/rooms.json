@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "name": "public"
+  },
+  {
+    "id": "1",
+    "name": "football"
+  },
+  {
+    "id": "2",
+    "name": "box"
+  },
+  {
+    "id": "3",
+    "name": "programming"
+  },
+  {
+    "id": "4",
+    "name": "music"
+  }
+]
